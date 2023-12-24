@@ -1,2 +1,4 @@
-tensorflow==2.0.0-beta1
+tensorflow==2.0.0
+protobuf==3.19.0
+psutil
 numpy
